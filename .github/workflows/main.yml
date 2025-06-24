@@ -56,7 +56,7 @@ jobs :
           server_address: smtp.gmail.com
           server_port: 465
           username: ${{ secrets.EMAIL_USERNAME }}
-          password: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
           subject: Phoenic Inwaaranty Flow test Execution Notifications
           to: ashleshapatil868@gmail.com
           from: ${{ secrets.EMAIL_USERNAME }}
