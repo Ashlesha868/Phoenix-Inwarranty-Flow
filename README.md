@@ -81,11 +81,6 @@ You can run the project on your local system
 ```
 
              
-# HTML Report #
-The report will be created in the newman folder 
-![Postman Report](https://github.com/Ashlesha868/Phoenix-Inwarranty-Flow/blob/static-content/newman%20report%20screenshot.png)
-
-
 
 
 
